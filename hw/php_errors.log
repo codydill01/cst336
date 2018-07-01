@@ -1,0 +1,36 @@
+[30-Jun-2018 21:47:01 UTC] PHP Fatal error:  Call to undefined function click() in /home/ubuntu/workspace/cst336/hw/hw2/index.php on line 16
+[30-Jun-2018 21:47:01 UTC] PHP Stack trace:
+[30-Jun-2018 21:47:01 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw2/index.php:0
+[01-Jul-2018 01:19:13 UTC] PHP Fatal error:  Call to undefined function fname_rand() in /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php on line 15
+[01-Jul-2018 01:19:13 UTC] PHP Stack trace:
+[01-Jul-2018 01:19:13 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw2/index.php:0
+[01-Jul-2018 01:19:13 UTC] PHP   2. include() /home/ubuntu/workspace/cst336/hw/hw2/index.php:3
+[01-Jul-2018 01:19:13 UTC] PHP   3. generator() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:30
+[01-Jul-2018 01:20:33 UTC] PHP Fatal error:  Call to undefined function play() in /home/ubuntu/workspace/cst336/hw/hw2/index.php on line 18
+[01-Jul-2018 01:20:33 UTC] PHP Stack trace:
+[01-Jul-2018 01:20:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw2/index.php:0
+[01-Jul-2018 01:22:12 UTC] PHP Fatal error:  Call to undefined function play() in /home/ubuntu/workspace/cst336/hw/hw2/index.php on line 18
+[01-Jul-2018 01:22:12 UTC] PHP Stack trace:
+[01-Jul-2018 01:22:12 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw2/index.php:0
+[01-Jul-2018 01:30:58 UTC] PHP Warning:  mt_rand(): max(-1) is smaller than min(0) in /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php on line 15
+[01-Jul-2018 01:30:58 UTC] PHP Stack trace:
+[01-Jul-2018 01:30:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw2/index.php:0
+[01-Jul-2018 01:30:58 UTC] PHP   2. include() /home/ubuntu/workspace/cst336/hw/hw2/index.php:3
+[01-Jul-2018 01:30:58 UTC] PHP   3. generator() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:36
+[01-Jul-2018 01:30:58 UTC] PHP   4. mt_rand() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:15
+[01-Jul-2018 01:30:58 UTC] PHP Warning:  mt_rand(): max(-1) is smaller than min(0) in /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php on line 16
+[01-Jul-2018 01:30:58 UTC] PHP Stack trace:
+[01-Jul-2018 01:30:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw2/index.php:0
+[01-Jul-2018 01:30:58 UTC] PHP   2. include() /home/ubuntu/workspace/cst336/hw/hw2/index.php:3
+[01-Jul-2018 01:30:58 UTC] PHP   3. generator() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:36
+[01-Jul-2018 01:30:58 UTC] PHP   4. mt_rand() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:16
+[01-Jul-2018 01:30:58 UTC] PHP Fatal error:  Call to undefined function my_rand() in /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php on line 17
+[01-Jul-2018 01:30:58 UTC] PHP Stack trace:
+[01-Jul-2018 01:30:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw2/index.php:0
+[01-Jul-2018 01:30:58 UTC] PHP   2. include() /home/ubuntu/workspace/cst336/hw/hw2/index.php:3
+[01-Jul-2018 01:30:58 UTC] PHP   3. generator() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:36
+[01-Jul-2018 01:31:34 UTC] PHP Fatal error:  Call to undefined function my_rand() in /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php on line 17
+[01-Jul-2018 01:31:34 UTC] PHP Stack trace:
+[01-Jul-2018 01:31:34 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/hw/hw2/index.php:0
+[01-Jul-2018 01:31:34 UTC] PHP   2. include() /home/ubuntu/workspace/cst336/hw/hw2/index.php:3
+[01-Jul-2018 01:31:34 UTC] PHP   3. generator() /home/ubuntu/workspace/cst336/hw/hw2/inc/functions.php:36

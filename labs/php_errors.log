@@ -1,0 +1,9 @@
+[27-Jun-2018 02:49:15 UTC] PHP Fatal error:  Call to undefined function play() in /home/ubuntu/workspace/cst336/labs/lab2/index.php on line 18
+[27-Jun-2018 02:49:15 UTC] PHP Stack trace:
+[27-Jun-2018 02:49:15 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab2/index.php:0
+[27-Jun-2018 02:50:24 UTC] PHP Fatal error:  Call to undefined function play() in /home/ubuntu/workspace/cst336/labs/lab2/index.php on line 18
+[27-Jun-2018 02:50:24 UTC] PHP Stack trace:
+[27-Jun-2018 02:50:24 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab2/index.php:0
+[27-Jun-2018 02:50:49 UTC] PHP Fatal error:  Call to undefined function play() in /home/ubuntu/workspace/cst336/labs/lab2/index.php on line 18
+[27-Jun-2018 02:50:49 UTC] PHP Stack trace:
+[27-Jun-2018 02:50:49 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab2/index.php:0

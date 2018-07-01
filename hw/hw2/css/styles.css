@@ -1,0 +1,100 @@
+body
+{
+    background-image: url("../img/skyclouds.png");
+}
+input
+{
+    position:relative;
+    font-size:2.0em;
+    background-color: Transparent;
+    border:none;
+    outline:none; 
+    font-weight:bold;
+    cursor:pointer;
+    margin: auto;
+    text-align: center;
+    width: 50%;
+    top: -90px;
+    left: 300px;
+    
+}
+input:hover
+{
+    color: red;
+}
+
+#abrev, #extend
+{
+    font-family: 'Indie Flower', cursive;
+    font-size: 60px;
+    text-align: center;
+}
+#extend 
+{
+    font-size: 20px;
+}
+
+.helpText, #player1, #player2, #winnerText, input
+{
+    font-family: 'Dancing Script', cursive;
+    font-size: 30px;
+    text-align: center;
+}
+
+#pos1, #pos2 
+{
+    position: relative;
+}
+
+#pos1
+{
+    right: -100px;
+}
+#pos2
+{
+    left:700px;
+}
+#player1
+{
+    position: relative;
+    right: 250px;
+    top: 40px;
+}
+#player2 
+{
+    position: relative;
+    left: 250px;
+    top: -25px;
+}
+#winnerText
+{
+    padding-top: 0px;
+}
+
+.gifs, #playingRpsls
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    padding-top: 50px;
+}
+#playingRpsls
+{
+    width: 75%;
+}
+#footerText
+{
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+
+#homeLink
+{
+    text-decoration: none;
+    color: black;
+}
+#homeLink :hover
+{
+    color: blue;
+}
