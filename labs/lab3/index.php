@@ -3,19 +3,24 @@
     $backgroundImage = "img/sea.jpg";
     //API call goes here
     $layoutHorizontal = "horizontal";   
-    if(empty($_GET['keyword']))
+    if(empty($_GET['keyword']) && empty($_GET['category']))
     {
-        include './api/pixabayAPI.php';
-        $keyword = $_GET['category'];
-        $layoutHorizontal = $_GET['layout'];
-        echo $layoutHorizontal;
-        $imageURLs = getImageURLs($keyword, $layoutHorizontal);
-        $backgroundImage = $imageURLs[array_rand($imageURLs)];
+        echo  "<h2> Type a keyword or choose a category for a slideshow.</h2<";
+
     }
     elseif(empty($_GET['category']))
     {
         include './api/pixabayAPI.php';
         $keyword = $_GET['keyword'];
+        $layoutHorizontal = $_GET['layout'];
+        echo $layoutHorizontal;
+        $imageURLs = getImageURLs($keyword, $layoutHorizontal);
+        $backgroundImage = $imageURLs[array_rand($imageURLs)];        
+    }
+    elseif(empty($_GET['keyword']))
+    {
+        include './api/pixabayAPI.php';
+        $keyword = $_GET['category'];
         $layoutHorizontal = $_GET['layout'];
         echo $layoutHorizontal;
         $imageURLs = getImageURLs($keyword, $layoutHorizontal);
