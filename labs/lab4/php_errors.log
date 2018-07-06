@@ -1,0 +1,14 @@
+[06-Jul-2018 02:47:19 UTC] PHP Fatal error:  Call to undefined function displayResults() in /home/ubuntu/workspace/cst336/labs/lab4/scart/index.php on line 76
+[06-Jul-2018 02:47:19 UTC] PHP Stack trace:
+[06-Jul-2018 02:47:19 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab4/scart/index.php:0
+[06-Jul-2018 02:47:33 UTC] PHP Fatal error:  Call to undefined function displayResults() in /home/ubuntu/workspace/cst336/labs/lab4/scart/index.php on line 76
+[06-Jul-2018 02:47:33 UTC] PHP Stack trace:
+[06-Jul-2018 02:47:33 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab4/scart/index.php:0
+[06-Jul-2018 03:21:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/cst336/labs/lab4/scart/functions.php on line 10
+[06-Jul-2018 03:21:58 UTC] PHP Stack trace:
+[06-Jul-2018 03:21:58 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab4/scart/index.php:0
+[06-Jul-2018 03:21:58 UTC] PHP   2. displayResults() /home/ubuntu/workspace/cst336/labs/lab4/scart/index.php:96
+[06-Jul-2018 03:22:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/ubuntu/workspace/cst336/labs/lab4/scart/functions.php on line 10
+[06-Jul-2018 03:22:07 UTC] PHP Stack trace:
+[06-Jul-2018 03:22:07 UTC] PHP   1. {main}() /home/ubuntu/workspace/cst336/labs/lab4/scart/index.php:0
+[06-Jul-2018 03:22:07 UTC] PHP   2. displayResults() /home/ubuntu/workspace/cst336/labs/lab4/scart/index.php:96
