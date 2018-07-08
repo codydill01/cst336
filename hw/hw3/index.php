@@ -29,7 +29,7 @@
                 Phone Number
                 </label><br>
                 <input id="phone" type="text" name ="phonenumber" value ="<?=$_GET['phonenumber']?>" />
-                
+                <br /> <br />
                 
                 <fieldset>
                     <p class = test>Select your new build</p>
@@ -66,15 +66,10 @@
         </div>
         <hr>
         <footer>
-            
             Disclaimer: If the PC breaks during the first 24hours bring it back for a full refund.
-            
             <div id="fn">
             Otherwise enjoy your new PC!      
             </div>
-           
-            
         </footer>        
     </body>    
-    
 </html>

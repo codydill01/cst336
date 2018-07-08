@@ -11,6 +11,7 @@
     <body>
         <header>
             <h1> Summary </h1>
+            <hr>
         </header>
         
          <?php
@@ -93,7 +94,7 @@
             }
         ?>
         
-        <br/> <br />
+        
         
         <div id="main">   
           <form action="functions.php" method="get">
@@ -102,7 +103,7 @@
             <br>
             <label for =="phone">Phone Number:</label>
             <input id="phone" type="text" name="phonenumber" value="<?=$_GET['phonenumber']?>"/>
-             
+             <br> <br>
             
             <fieldset>
                 <legend>Choose a PC</legend>
@@ -229,6 +230,7 @@
             <input type="submit" value="Submit" />
           </form>
         </div>
+        <hr>
          <footer>
             Disclaimer: If the PC breaks during the first 24hours bring it back for a full refund.
             <div id="fn2">
