@@ -1,0 +1,64 @@
+body
+{
+    background-image:url(../img/542624.jpg);
+    color:black;
+}
+footer
+{
+    font-size: 16px;
+    font-family: 'Indie Flower', cursive;
+    margin:0 auto;
+    color: blue;
+    text-align: center;
+}
+#fn
+{
+    padding-left:125px;
+}
+#fn2
+{
+    padding-left:75px;
+}
+h4
+{
+    font-size: 25px;
+    color:white;
+    text-shadow: 1px 1px 2px black, 0 0 35px blue, 0 0 10px darkblue;
+    
+}
+h1
+{
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    font-size: 48px;
+    text-shadow: 0 0 3px #abfff1, 0 0 5px #0000FF;
+}
+h2
+{
+    text-align: center;
+    color:green;
+}
+.test
+{
+    font-size: 24px;
+    color: black;
+    font-family: 'Shrikhand', cursive;
+    text-align: center;
+}
+fieldset { 
+    display: block;
+    margin-left: 2px;
+    margin-right: 2px;
+    padding-top: 0.35em;
+    padding-bottom: 0.625em;
+    padding-left: 0.75em;
+    padding-right: 0.75em;
+    border: 2px groove;
+    border-color: #32fcff;
+    border-style: solid;
+    box-shadow: 10px 10px 5px #abfff1;
+}
+.test
+{
+    text-shadow: 1px 1px 2px black, 0 0 35px blue, 0 0 10px darkblue;
+}
