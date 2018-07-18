@@ -19,6 +19,8 @@ echo "Cody Dill's CST336 Internet Programming";
     <br>
     <a href = "labs/lab5"/> Lab 5 </a>
     <br>
+    <a href = "labs/lab6"/> Lab 6 </a>
+    <br>
     <h2> HW</h2>
     <a href = "hw/hw1"> HW 1</a>
     <br>
