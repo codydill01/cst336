@@ -29,5 +29,8 @@ echo "Cody Dill's CST336 Internet Programming";
     <a href = "hw/hw2"> HW 2</a>
     <br>
     <a href = "hw/hw3"> HW 3</a>
+    <br>
+    <a href = "hw/hw4"> HW 4</a>
+    <br>
 </body>
 </html>
