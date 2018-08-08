@@ -8,6 +8,9 @@ echo "Cody Dill's CST336 Internet Programming";
 
 ?>
 <br /> <br/>
+    <h1> Final Project </h1>
+    <br>
+    <a href = "finalproject"> Final Project </a>
     <h1> Labs </h1>
     <a href = "labs/lab1/"> Lab 1 </a>
     <br>
